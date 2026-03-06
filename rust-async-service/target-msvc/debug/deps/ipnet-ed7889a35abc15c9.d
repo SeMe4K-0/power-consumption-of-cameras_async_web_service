@@ -1,0 +1,11 @@
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\ipnet-ed7889a35abc15c9.d: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\ipext.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\ipnet.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\mask.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\parser.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\libipnet-ed7889a35abc15c9.rlib: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\ipext.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\ipnet.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\mask.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\parser.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\libipnet-ed7889a35abc15c9.rmeta: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\ipext.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\ipnet.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\mask.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\parser.rs
+
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\lib.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\ipext.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\ipnet.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\mask.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ipnet-2.12.0\src\parser.rs:

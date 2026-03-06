@@ -1,0 +1,10 @@
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\time_core-0c872f67f6bc156d.d: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\convert.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\hint.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\util.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\libtime_core-0c872f67f6bc156d.rlib: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\convert.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\hint.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\util.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\libtime_core-0c872f67f6bc156d.rmeta: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\convert.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\hint.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\util.rs
+
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\lib.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\convert.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\hint.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\time-core-0.1.8\src\util.rs:

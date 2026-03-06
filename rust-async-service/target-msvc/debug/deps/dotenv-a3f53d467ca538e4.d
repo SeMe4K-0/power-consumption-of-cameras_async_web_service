@@ -1,0 +1,11 @@
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\dotenv-a3f53d467ca538e4.d: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\parse.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\errors.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\iter.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\find.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\libdotenv-a3f53d467ca538e4.rlib: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\parse.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\errors.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\iter.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\find.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\libdotenv-a3f53d467ca538e4.rmeta: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\parse.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\errors.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\iter.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\find.rs
+
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\lib.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\parse.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\errors.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\iter.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenv-0.15.0\src\find.rs:

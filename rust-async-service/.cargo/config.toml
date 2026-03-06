@@ -1,0 +1,5 @@
+[build]
+target = "x86_64-pc-windows-msvc"
+target-dir = "target-msvc"
+jobs = 1
+rustc = "C:/Users/Semyon/.rustup/toolchains/stable-x86_64-pc-windows-msvc/bin/rustc.exe"

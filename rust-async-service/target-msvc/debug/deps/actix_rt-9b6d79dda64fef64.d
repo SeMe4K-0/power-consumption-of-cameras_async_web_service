@@ -1,0 +1,10 @@
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\actix_rt-9b6d79dda64fef64.d: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\arbiter.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\runtime.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\system.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\libactix_rt-9b6d79dda64fef64.rlib: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\arbiter.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\runtime.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\system.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\libactix_rt-9b6d79dda64fef64.rmeta: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\arbiter.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\runtime.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\system.rs
+
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\lib.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\arbiter.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\runtime.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\actix-rt-2.11.0\src\system.rs:

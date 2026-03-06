@@ -1,0 +1,10 @@
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\litemap-ed8245e082815fac.d: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\map.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\store\mod.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\store\slice_impl.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\liblitemap-ed8245e082815fac.rlib: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\map.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\store\mod.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\store\slice_impl.rs
+
+C:\Users\Semyon\Desktop\power-consumption-of-cameras_async_web_service\rust-async-service\target-msvc\debug\deps\liblitemap-ed8245e082815fac.rmeta: C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\lib.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\map.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\store\mod.rs C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\store\slice_impl.rs
+
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\lib.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\map.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\store\mod.rs:
+C:\Users\Semyon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\litemap-0.8.1\src\store\slice_impl.rs:

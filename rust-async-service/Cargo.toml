@@ -1,0 +1,17 @@
+[package]
+name = "rust-async-service"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-web = { version = "4.13.0", default-features = false, features = ["macros"] }
+dotenv = "0.15.0"
+rand = "0.8.5"
+reqwest = { version = "0.11", default-features = false, features = ["json"] }
+serde = { version = "1.0.228", features = ["derive"] }
+serde_json = "1.0.149"
+tokio = { version = "1.50.0", features = ["rt-multi-thread", "macros", "time"] }
+
+[profile.dev]
+debug = 0
+incremental = false
